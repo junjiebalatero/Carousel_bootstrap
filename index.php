@@ -280,13 +280,13 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(23)"></span>
 </div>
 <br>
-  <center><div style="background-color:lightblue">
+<!--   <center><div style="background-color:lightblue">
      <form action="upload.php" method="post"
      enctype="multipart/form-data" action="upload.php">
      <input type="file" name="file" id="file" size="35"><br>
      <input type="submit" name="submit" id="submit" value="Submit">
      </form>
-  </div></center>
+  </div></center> -->
 
 <!-- //////////////////////////////////// -->
 
