@@ -111,142 +111,257 @@ img {vertical-align: middle;}
   <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 23</div>
-  <img src="junjie_batch85_pic/picedit1.jpg" style="width:100%">
+  <div class="numbertext">1 / 42</div>
+  <img src="junjie_batch85_pic/pic1.jpg" style="width:100%">
   <div class="text">pic1</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 23</div>
+  <div class="numbertext">2 / 42</div>
   <img src="junjie_batch85_pic/pic2.jpg" style="width:100%">
   <div class="text">pic2</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 23</div>
+  <div class="numbertext">3 / 42</div>
   <img src="junjie_batch85_pic/pic3.jpg" style="width:100%">
   <div class="text">pic3</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 23</div>
+  <div class="numbertext">4 / 42</div>
   <img src="junjie_batch85_pic/pic4.jpg" style="width:100%">
   <div class="text">pic4</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 23</div>
+  <div class="numbertext">5 / 42</div>
   <img src="junjie_batch85_pic/pic5.jpg" style="width:100%">
   <div class="text">pic5</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 23</div>
+  <div class="numbertext">6 / 42</div>
   <img src="junjie_batch85_pic/pic6.jpg" style="width:100%">
   <div class="text">pic6</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 23</div>
+  <div class="numbertext">7 / 42</div>
   <img src="junjie_batch85_pic/pic7.jpg" style="width:100%">
   <div class="text">pic7</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 23</div>
+  <div class="numbertext">8 / 42</div>
   <img src="junjie_batch85_pic/pic8.jpg" style="width:100%">
   <div class="text">pic8</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">9 / 23</div>
+  <div class="numbertext">9 / 42</div>
   <img src="junjie_batch85_pic/pic9.jpg" style="width:100%">
   <div class="text">pic9</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">10 / 23</div>
+  <div class="numbertext">10 / 42</div>
   <img src="junjie_batch85_pic/pic10.jpg" style="width:100%">
   <div class="text">pic10</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">11 / 23</div>
+  <div class="numbertext">11 / 42</div>
   <img src="junjie_batch85_pic/pic11.jpg" style="width:100%">
   <div class="text">pic11</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">12 / 23</div>
+  <div class="numbertext">12 / 42</div>
   <img src="junjie_batch85_pic/pic12.jpg" style="width:100%">
   <div class="text">pic12</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">13 / 23</div>
+  <div class="numbertext">13 / 42</div>
   <img src="junjie_batch85_pic/pic13.jpg" style="width:100%">
   <div class="text">pic13</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">14 / 23</div>
+  <div class="numbertext">14 / 42</div>
   <img src="junjie_batch85_pic/pic14.jpg" style="width:100%">
   <div class="text">pic14</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">15 / 23</div>
+  <div class="numbertext">15 / 42</div>
   <img src="junjie_batch85_pic/pic15.jpg" style="width:100%">
   <div class="text">pic15</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">16 / 23</div>
+  <div class="numbertext">16 / 42</div>
   <img src="junjie_batch85_pic/pic16.jpg" style="width:100%">
   <div class="text">pic16</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">17 / 23</div>
+  <div class="numbertext">17 / 42</div>
   <img src="junjie_batch85_pic/pic17.jpg" style="width:100%">
   <div class="text">pic17</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">18 / 23</div>
+  <div class="numbertext">18 / 42</div>
   <img src="junjie_batch85_pic/pic18.jpg" style="width:100%">
   <div class="text">pic18</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">19 / 23</div>
+  <div class="numbertext">19 / 42</div>
   <img src="junjie_batch85_pic/pic19.jpg" style="width:100%">
   <div class="text">pic19</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">20 / 23</div>
+  <div class="numbertext">20 / 42</div>
   <img src="junjie_batch85_pic/pic20.jpg" style="width:100%">
   <div class="text">pic20</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">21 / 23</div>
+  <div class="numbertext">21 / 42</div>
   <img src="junjie_batch85_pic/pic21.jpg" style="width:100%">
   <div class="text">pic21</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">22 / 23</div>
+  <div class="numbertext">22 / 42</div>
   <img src="junjie_batch85_pic/pic22.jpg" style="width:100%">
   <div class="text">pic22</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">23 / 23</div>
+  <div class="numbertext">23 / 42</div>
   <img src="junjie_batch85_pic/pic23.jpg" style="width:100%">
   <div class="text">pic23</div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">24 / 42</div>
+  <img src="junjie_batch85_pic/pic24.jpg" style="width:100%">
+  <div class="text">pic24</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">25 / 42</div>
+  <img src="junjie_batch85_pic/pic25.jpg" style="width:100%">
+  <div class="text">pic25</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">26 / 42</div>
+  <img src="junjie_batch85_pic/pic26.jpg" style="width:100%">
+  <div class="text">pic26</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">27 / 42</div>
+  <img src="junjie_batch85_pic/pic27.jpg" style="width:100%">
+  <div class="text">pic27</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">28 / 42</div>
+  <img src="junjie_batch85_pic/pic28.jpg" style="width:100%">
+  <div class="text">pic28</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">29 / 42</div>
+  <img src="junjie_batch85_pic/pic29.jpg" style="width:100%">
+  <div class="text">pic29</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">30 / 42</div>
+  <img src="junjie_batch85_pic/pic30.jpg" style="width:100%">
+  <div class="text">pic30</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">31 / 42</div>
+  <img src="junjie_batch85_pic/pic31.jpg" style="width:100%">
+  <div class="text">pic31</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">32 / 42</div>
+  <img src="junjie_batch85_pic/pic32.jpg" style="width:100%">
+  <div class="text">pic32</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">33 / 42</div>
+  <img src="junjie_batch85_pic/pic33.jpg" style="width:100%">
+  <div class="text">pic33</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">34 / 42</div>
+  <img src="junjie_batch85_pic/pic34.jpg" style="width:100%">
+  <div class="text">pic34</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">35 / 42</div>
+  <img src="junjie_batch85_pic/pic35.jpg" style="width:100%">
+  <div class="text">pic35</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">36 / 42</div>
+  <img src="junjie_batch85_pic/pic36.jpg" style="width:100%">
+  <div class="text">pic36</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">37 / 42</div>
+  <img src="junjie_batch85_pic/pic37.jpg" style="width:100%">
+  <div class="text">pic37</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">38 / 42</div>
+  <img src="junjie_batch85_pic/pic38.jpg" style="width:100%">
+  <div class="text">pic38</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">39 / 42</div>
+  <img src="junjie_batch85_pic/pic39.jpg" style="width:100%">
+  <div class="text">pic39</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">40 / 42</div>
+  <img src="junjie_batch85_pic/pic40.jpg" style="width:100%">
+  <div class="text">pic40</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">41 / 42</div>
+  <img src="junjie_batch85_pic/pic41.jpg" style="width:100%">
+  <div class="text">pic41</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">42 / 42</div>
+  <img src="junjie_batch85_pic/pic42.jpg" style="width:100%">
+  <div class="text">pic42</div>
+</div>
+
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -278,6 +393,25 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(21)"></span>
   <span class="dot" onclick="currentSlide(22)"></span>
   <span class="dot" onclick="currentSlide(23)"></span>
+  <span class="dot" onclick="currentSlide(24)"></span>
+  <span class="dot" onclick="currentSlide(25)"></span>
+  <span class="dot" onclick="currentSlide(26)"></span>
+  <span class="dot" onclick="currentSlide(27)"></span>
+  <span class="dot" onclick="currentSlide(28)"></span>
+  <span class="dot" onclick="currentSlide(29)"></span>
+  <span class="dot" onclick="currentSlide(30)"></span>
+  <span class="dot" onclick="currentSlide(31)"></span>
+  <span class="dot" onclick="currentSlide(32)"></span>
+  <span class="dot" onclick="currentSlide(33)"></span>
+  <span class="dot" onclick="currentSlide(34)"></span>
+  <span class="dot" onclick="currentSlide(35)"></span>
+  <span class="dot" onclick="currentSlide(36)"></span>
+  <span class="dot" onclick="currentSlide(37)"></span>
+  <span class="dot" onclick="currentSlide(38)"></span>
+  <span class="dot" onclick="currentSlide(39)"></span>
+  <span class="dot" onclick="currentSlide(40)"></span>
+  <span class="dot" onclick="currentSlide(41)"></span>
+  <span class="dot" onclick="currentSlide(42)"></span>  
 </div>
 <br>
 <!--   <center><div style="background-color:lightblue">
