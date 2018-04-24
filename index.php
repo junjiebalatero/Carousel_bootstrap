@@ -1,598 +1,381 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-   <title>ICC High School-Batch '85</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-* {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-</style>
-</head>
-<body bgcolor="#E6E6FA">
-
-  <center><h4>ICC High School-Batch '85</h4></center>
-
-  <div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 62</div>
-  <img src="junjie_batch85_pic/pic1.jpg" style="width:100%">
-  <div class="text">pic1</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 62</div>
-  <img src="junjie_batch85_pic/pic2.jpg" style="width:100%">
-  <div class="text">pic2</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 62</div>
-  <img src="junjie_batch85_pic/pic3.jpg" style="width:100%">
-  <div class="text">pic3</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">4 / 62</div>
-  <img src="junjie_batch85_pic/pic4.jpg" style="width:100%">
-  <div class="text">pic4</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">5 / 62</div>
-  <img src="junjie_batch85_pic/pic5.jpg" style="width:100%">
-  <div class="text">pic5</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 62</div>
-  <img src="junjie_batch85_pic/pic6.jpg" style="width:100%">
-  <div class="text">pic6</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">7 / 62</div>
-  <img src="junjie_batch85_pic/pic7.jpg" style="width:100%">
-  <div class="text">pic7</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">8 / 62</div>
-  <img src="junjie_batch85_pic/pic8.jpg" style="width:100%">
-  <div class="text">pic8</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">9 / 62</div>
-  <img src="junjie_batch85_pic/pic9.jpg" style="width:100%">
-  <div class="text">pic9</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">10 / 62</div>
-  <img src="junjie_batch85_pic/pic10.jpg" style="width:100%">
-  <div class="text">pic10</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">11 / 62</div>
-  <img src="junjie_batch85_pic/pic11.jpg" style="width:100%">
-  <div class="text">pic11</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">12 / 62</div>
-  <img src="junjie_batch85_pic/pic12.jpg" style="width:100%">
-  <div class="text">pic12</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">13 / 62</div>
-  <img src="junjie_batch85_pic/pic13.jpg" style="width:100%">
-  <div class="text">pic13</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">14 / 62</div>
-  <img src="junjie_batch85_pic/pic14.jpg" style="width:100%">
-  <div class="text">pic14</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">15 / 62</div>
-  <img src="junjie_batch85_pic/pic15.jpg" style="width:100%">
-  <div class="text">pic15</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">16 / 62</div>
-  <img src="junjie_batch85_pic/pic16.jpg" style="width:100%">
-  <div class="text">pic16</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">17 / 62</div>
-  <img src="junjie_batch85_pic/pic17.jpg" style="width:100%">
-  <div class="text">pic17</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">18 / 62</div>
-  <img src="junjie_batch85_pic/pic18.jpg" style="width:100%">
-  <div class="text">pic18</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">19 / 62</div>
-  <img src="junjie_batch85_pic/pic19.jpg" style="width:100%">
-  <div class="text">pic19</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">20 / 62</div>
-  <img src="junjie_batch85_pic/pic20.jpg" style="width:100%">
-  <div class="text">pic20</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">21 / 62</div>
-  <img src="junjie_batch85_pic/pic21.jpg" style="width:100%">
-  <div class="text">pic21</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">22 / 62</div>
-  <img src="junjie_batch85_pic/pic22.jpg" style="width:100%">
-  <div class="text">pic22</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">23 / 62</div>
-  <img src="junjie_batch85_pic/pic23.jpg" style="width:100%">
-  <div class="text">pic23</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">24 / 62</div>
-  <img src="junjie_batch85_pic/pic24.jpg" style="width:100%">
-  <div class="text">pic24</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">25 / 62</div>
-  <img src="junjie_batch85_pic/pic25.jpg" style="width:100%">
-  <div class="text">pic25</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">26 / 62</div>
-  <img src="junjie_batch85_pic/pic26.jpg" style="width:100%">
-  <div class="text">pic26</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">27 / 62</div>
-  <img src="junjie_batch85_pic/pic27.jpg" style="width:100%">
-  <div class="text">pic27</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">28 / 62</div>
-  <img src="junjie_batch85_pic/pic28.jpg" style="width:100%">
-  <div class="text">pic28</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">29 / 62</div>
-  <img src="junjie_batch85_pic/pic29.jpg" style="width:100%">
-  <div class="text">pic29</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">30 / 62</div>
-  <img src="junjie_batch85_pic/pic30.jpg" style="width:100%">
-  <div class="text">pic30</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">31 / 62</div>
-  <img src="junjie_batch85_pic/pic31.jpg" style="width:100%">
-  <div class="text">pic31</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">32 / 62</div>
-  <img src="junjie_batch85_pic/pic32.jpg" style="width:100%">
-  <div class="text">pic32</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">33 / 62</div>
-  <img src="junjie_batch85_pic/pic33.jpg" style="width:100%">
-  <div class="text">pic33</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">34 / 62</div>
-  <img src="junjie_batch85_pic/pic34.jpg" style="width:100%">
-  <div class="text">pic34</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">35 / 62</div>
-  <img src="junjie_batch85_pic/pic35.jpg" style="width:100%">
-  <div class="text">pic35</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">36 / 62</div>
-  <img src="junjie_batch85_pic/pic36.jpg" style="width:100%">
-  <div class="text">pic36</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">37 / 62</div>
-  <img src="junjie_batch85_pic/pic37.jpg" style="width:100%">
-  <div class="text">pic37</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">38 / 62</div>
-  <img src="junjie_batch85_pic/pic38.jpg" style="width:100%">
-  <div class="text">pic38</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">39 / 62</div>
-  <img src="junjie_batch85_pic/pic39.jpg" style="width:100%">
-  <div class="text">pic39</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">40 / 62</div>
-  <img src="junjie_batch85_pic/pic40.jpg" style="width:100%">
-  <div class="text">pic40</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">41 / 62</div>
-  <img src="junjie_batch85_pic/pic41.jpg" style="width:100%">
-  <div class="text">pic41</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">42 / 62</div>
-  <img src="junjie_batch85_pic/pic42.jpg" style="width:100%">
-  <div class="text">pic42</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">43 / 62</div>
-  <img src="junjie_batch85_pic/pic43.jpg" style="width:100%">
-  <div class="text">pic43</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">44 / 62</div>
-  <img src="junjie_batch85_pic/pic44.jpg" style="width:100%">
-  <div class="text">pic44</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">45 / 62</div>
-  <img src="junjie_batch85_pic/pic45.jpg" style="width:100%">
-  <div class="text">pic3</div>45
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">46 / 62</div>
-  <img src="junjie_batch85_pic/pic46.jpg" style="width:100%">
-  <div class="text">pic46</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">47 / 62</div>
-  <img src="junjie_batch85_pic/pic47.jpg" style="width:100%">
-  <div class="text">pic47</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">48 / 62</div>
-  <img src="junjie_batch85_pic/pic48.jpg" style="width:100%">
-  <div class="text">pic48</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">49 / 62</div>
-  <img src="junjie_batch85_pic/pic49.jpg" style="width:100%">
-  <div class="text">pic49</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">50 / 62</div>
-  <img src="junjie_batch85_pic/pic50.jpg" style="width:100%">
-  <div class="text">pic50</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">51 / 62</div>
-  <img src="junjie_batch85_pic/pic51.jpg" style="width:100%">
-  <div class="text">pic51</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">52 / 62</div>
-  <img src="junjie_batch85_pic/pic52.jpg" style="width:100%">
-  <div class="text">pic52</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">53 / 62</div>
-  <img src="junjie_batch85_pic/pic53.jpg" style="width:100%">
-  <div class="text">pic53</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">54 / 62</div>
-  <img src="junjie_batch85_pic/pic54.jpg" style="width:100%">
-  <div class="text">pic54</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">55 / 62</div>
-  <img src="junjie_batch85_pic/pic55.jpg" style="width:100%">
-  <div class="text">pic55</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">56 / 62</div>
-  <img src="junjie_batch85_pic/pic56.jpg" style="width:100%">
-  <div class="text">pic56</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">57 / 62</div>
-  <img src="junjie_batch85_pic/pic57.jpg" style="width:100%">
-  <div class="text">pic57</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">58 / 62</div>
-  <img src="junjie_batch85_pic/pic58.jpg" style="width:100%">
-  <div class="text">pic58</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">59 / 62</div>
-  <img src="junjie_batch85_pic/pic59.jpg" style="width:100%">
-  <div class="text">pic59</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">60 / 62</div>
-  <img src="junjie_batch85_pic/pic60.jpg" style="width:100%">
-  <div class="text">pic60</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">61 / 62</div>
-  <img src="junjie_batch85_pic/pic61.jpg" style="width:100%">
-  <div class="text">pic61</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">62 / 62</div>
-  <img src="junjie_batch85_pic/pic62.jpg" style="width:100%">
-  <div class="text">pic62</div>
-</div>
-
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
-  <span class="dot" onclick="currentSlide(5)"></span>
-  <span class="dot" onclick="currentSlide(6)"></span>
-  <span class="dot" onclick="currentSlide(7)"></span>
-  <span class="dot" onclick="currentSlide(8)"></span>
-  <span class="dot" onclick="currentSlide(9)"></span>
-  <span class="dot" onclick="currentSlide(10)"></span>
-  <span class="dot" onclick="currentSlide(11)"></span>
-  <span class="dot" onclick="currentSlide(12)"></span>
-  <span class="dot" onclick="currentSlide(13)"></span>
-  <span class="dot" onclick="currentSlide(14)"></span>
-  <span class="dot" onclick="currentSlide(15)"></span>
-  <span class="dot" onclick="currentSlide(16)"></span>
-  <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
-  <span class="dot" onclick="currentSlide(20)"></span>
-  <span class="dot" onclick="currentSlide(21)"></span>
-  <span class="dot" onclick="currentSlide(22)"></span>
-  <span class="dot" onclick="currentSlide(23)"></span>
-  <span class="dot" onclick="currentSlide(24)"></span>
-  <span class="dot" onclick="currentSlide(25)"></span>
-  <span class="dot" onclick="currentSlide(26)"></span>
-  <span class="dot" onclick="currentSlide(27)"></span>
-  <span class="dot" onclick="currentSlide(28)"></span>
-  <span class="dot" onclick="currentSlide(29)"></span>
-  <span class="dot" onclick="currentSlide(30)"></span>
-  <span class="dot" onclick="currentSlide(31)"></span>
-  <span class="dot" onclick="currentSlide(32)"></span>
-  <span class="dot" onclick="currentSlide(33)"></span>
-  <span class="dot" onclick="currentSlide(34)"></span>
-  <span class="dot" onclick="currentSlide(35)"></span>
-  <span class="dot" onclick="currentSlide(36)"></span>
-  <span class="dot" onclick="currentSlide(37)"></span>
-  <span class="dot" onclick="currentSlide(38)"></span>
-  <span class="dot" onclick="currentSlide(39)"></span>
-  <span class="dot" onclick="currentSlide(40)"></span>
-  <span class="dot" onclick="currentSlide(41)"></span>
-  <span class="dot" onclick="currentSlide(42)"></span>  
-  <span class="dot" onclick="currentSlide(43)"></span>
-  <span class="dot" onclick="currentSlide(44)"></span>
-  <span class="dot" onclick="currentSlide(45)"></span>
-  <span class="dot" onclick="currentSlide(46)"></span>
-  <span class="dot" onclick="currentSlide(47)"></span>
-  <span class="dot" onclick="currentSlide(48)"></span>
-  <span class="dot" onclick="currentSlide(49)"></span>
-  <span class="dot" onclick="currentSlide(50)"></span>
-  <span class="dot" onclick="currentSlide(51)"></span>
-  <span class="dot" onclick="currentSlide(52)"></span>
-  <span class="dot" onclick="currentSlide(53)"></span>
-  <span class="dot" onclick="currentSlide(54)"></span>
-  <span class="dot" onclick="currentSlide(55)"></span>
-  <span class="dot" onclick="currentSlide(56)"></span>
-  <span class="dot" onclick="currentSlide(57)"></span>
-  <span class="dot" onclick="currentSlide(58)"></span>
-  <span class="dot" onclick="currentSlide(59)"></span>
-  <span class="dot" onclick="currentSlide(60)"></span>
-  <span class="dot" onclick="currentSlide(61)"></span>
-  <span class="dot" onclick="currentSlide(62)"></span>
-</div>
-<br>
-
-    </div>
-</div>
-
-<br>
-  <script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-  }
-  </script>
-<script src="https://www.shoutbox.com/chat/chat.js.php"></script>
-<script> var chat = new Chat(10680, "margie");</script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+    <title>ICC High School-Batch '85</title>
+    <style>
+    	body {
+    		background-color: DarkGray;
+		}
+    	.col-sm-6{
+    		 margin: 0 auto;
+             width: 800px; 
+    	}
+    </style>
+  </head>
+  <body>
+  	<div class="col-sm-6">	
+    <center><h1>ICC High School-Batch '85</h1></center>
+
+<center>
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="19"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="20"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="21"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="22"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="27"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="28"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="29"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="30"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="31"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="32"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="33"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="34"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="35"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="36"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="37"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="38"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="39"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="40"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="41"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="42"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="43"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="44"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="45"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="46"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="47"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="48"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="49"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="50"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="51"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="52"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="53"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="54"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="55"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="56"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="57"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="58"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="59"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="60"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="61"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="62"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="63"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="64"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="65"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="66"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="67"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="68"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="69"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="70"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="71"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="72"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="73"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="74"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="75"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="76"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="77"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="78"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="79"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="80"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="81"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="82"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="83"></li>    
+  </ol>
+  <div class="carousel-inner">
+	        <div class="carousel-item active">
+		      <img class="d-block w-100" src="images/1.jpg" alt="...">
+		    </div>		 
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/2.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/3.jpg" alt="...">
+		    </div>
+		     <div class="carousel-item">
+		      <img class="d-block w-100" src="images/4.jpg" alt="...">
+		     </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/5.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/6.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/7.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/8.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/9.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/10.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/11.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/12.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/13.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/14.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/15.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/16.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/17.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/18.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/19.jpg" alt="...">
+		    </div> 		  
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/20.jpg" alt="...">
+		    </div>  		      
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/21.jpg" alt="...">
+	       </div>  
+	          <div class="carousel-item">
+		      <img class="d-block w-100" src="images/22.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/23.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/24.jpg" alt="...">
+		    </div>
+		     <div class="carousel-item">
+		      <img class="d-block w-100" src="images/25.jpg" alt="...">
+		     </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/26.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/27.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/28.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/29.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/30.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/31.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/32.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/33.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/34.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/35.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/36.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/37.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/38.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/39.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/40.jpg" alt="...">
+		    </div> 		  
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/41.jpg" alt="...">
+		    </div>  		      
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/42.jpg" alt="...">
+	       </div>  
+	          <div class="carousel-item">
+		      <img class="d-block w-100" src="images/43.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/44.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/45.jpg" alt="...">
+		    </div>
+		     <div class="carousel-item">
+		      <img class="d-block w-100" src="images/46.jpg" alt="...">
+		     </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/47.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/48.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/49.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/50.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/51.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/52.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/53.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/54.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/55.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/56.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/57.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/58.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/59.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/60.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/61.jpg" alt="...">
+		    </div> 		  
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/62.jpg" alt="...">
+		    </div>  		      
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/63.jpg" alt="...">
+	       </div>  
+	          <div class="carousel-item">
+		      <img class="d-block w-100" src="images/64.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/65.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/66.jpg" alt="...">
+		    </div>
+		     <div class="carousel-item">
+		      <img class="d-block w-100" src="images/67.jpg" alt="...">
+		     </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/68.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/69.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/70.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/71.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/72.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/73.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/74.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/75.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/76.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/77.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/78.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/79.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/80.jpg" alt="...">
+		    </div>
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/81.jpg" alt="...">
+		    </div>  		    
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/82.jpg" alt="...">
+		    </div> 		  
+		    
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>	
+</center>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+  </body>
 </html>
-
-
-
-        
-
