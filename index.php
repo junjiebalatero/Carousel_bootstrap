@@ -357,6 +357,9 @@
 		    </div>  		    
 		    <div class="carousel-item">
 		      <img class="d-block w-100" src="images/82.jpg" alt="...">
+		    </div> 	
+		    <div class="carousel-item">
+		      <img class="d-block w-100" src="images/83.jpg" alt="...">
 		    </div> 		  
 		    
   </div>
